@@ -16,20 +16,20 @@ const HotelDetails = () => {
     <div>
     <div className='mt-3 py-5 px-5'>
             <div className='flex justify-between gap-4'>
-                <h2 className='grow py-5 font-medium text-base'>Acomodation</h2>
-                <div className='flex flex-row gap-4 py-5 text-lg font-normal text-button'>
+                <h2 className='grow py-5 font-medium text-base font-lora'>Acomodation</h2>
+                <div className='flex flex-row gap-4 py-5 text-lg font-normal font-poppins text-button'>
                     <span>Share</span>
                     <butoon><BsFillShareFill size={23}/></butoon>
                 </div>
-                <div className='flex flex-row gap-4 py-5 text-lg font-normal text-button'>
+                <div className='flex flex-row gap-4 py-5 text-lg font-normal font-poppins text-button'>
                     <span>Save</span>
                     <butoon><BsBookmarkCheck size={24}/></butoon>
                 </div>
             </div>
-            <div className='mt-3 text-2xl font-medium'>
+            <div className='mt-3 text-2xl font-medium font-lora'>
                 <h1>Jogja Hotel</h1>
             </div>
-            <div className='mt-3 text-sm font-normal'>
+            <div className='mt-5 text-sm font-normal font-poppins'>
                 <p>Jogja Hotel Tampere rooms invite you to perfect rest and enjoyment! Our selection of rooms offers a mystical atmosphere and story all designed to make your stay more enjoyable. We are happy to tell you more about the details you can find in our rooms. </p>
             </div>
         </div>
