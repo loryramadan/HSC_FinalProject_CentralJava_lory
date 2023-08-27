@@ -1,0 +1,68 @@
+
+    [
+        
+        {
+            "id": 1,
+            "image": "src/assets/gambar3.jpg",
+            "title": "Hotel Diana Jogja",
+            "price": "Rp. 300.000",
+            "rate": "4.8"
+          },
+        {
+            "id": 2,
+            "image": "src/assets/gambar4.jpg",
+            "title": "Burza Hotel Yogyakarta",
+            "price": "Rp. 1.300.000",
+            "rate": "5.0"
+          },
+        {
+            "id": 4,
+            "image": "src/assets/gambar1.jpg",
+            "title": "Liberta Malioboro",
+            "price": "Rp. 700.000",
+            "rate": "4.7"
+          },
+        {
+            "id": 5,
+            "image": "src/assets/gambar7.jpg",
+            "title": "KJ Hotel Yogyakarta",
+            "price": "Rp. 300.000",
+            "rate": "4.9"
+          },
+        {
+            "id": 6,
+            "image": "src/assets/gambar2.jpg",
+            "title": "Tjokro Style Yogyakarta",
+            "price": "Rp. 400.000",
+            "rate": "4.9"
+          },
+        {
+            "id": 7,
+            "image": "src/assets/gambar8.jpg",
+            "title": "Zest Hotel Yogyakarta",
+            "price": "Rp. 450.000",
+            "rate": "4.7"
+          },
+        {
+            "id": 8,
+            "image": "src/assets/gambar9.jpg",
+            "title": "Ayyarta Hotel Malioboro",
+            "price": "Rp. 800.000",
+            "rate": "5.0"
+          },
+        {
+            "id": 9,
+            "image": "src/assets/gambar10.jpg",
+            "title":"Puri Pangeran Hotel",
+            "price": "Rp. 600.000",
+            "rate": "4.9"
+          },
+        {
+            "id": 10,
+            "image": "src/assets/gambar6.jpg",
+            "title": "Kalya Hotel",
+            "price": "Rp. 150.000",
+            "rate": "4.7"
+          }
+        
+    ]
